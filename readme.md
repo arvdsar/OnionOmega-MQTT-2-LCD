@@ -1,5 +1,6 @@
 
-#MQTT to LCD Display on Onion Omega
+MQTT to LCD Display on Onion Omega
+
 Example command line for using lcd.py from the original library:
 python lcd.py -a 0x3f --line1="Test 1" --line2="Test 2"
 
